@@ -1,1 +1,1 @@
-# Stopwatch-and-Rock-paper-scizor
+# Stopwatch
